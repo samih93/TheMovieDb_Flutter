@@ -11,7 +11,7 @@ class AppValues {
   static const String imageUrl = 'https://image.tmdb.org/t/p/w500';
 
   /// Api Key
-  static const String apiKey = '61222fdc8669a6536695abd204a053a8';
+  static const String apiKey = '71c55178b23eb2d82f23878202f68cbe';
 
   /// en lang code
   static const String langCodeEn = 'en';
@@ -39,5 +39,4 @@ class AppValues {
 
   /// locales path
   static const String localesPath = 'assets/translations';
-
 }
